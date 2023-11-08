@@ -1,0 +1,38 @@
+/* Consideraciones generales de la fuente */
+
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: beige;
+}
+
+h1{font-size: 30px ;}
+h2{font-size: 25px;}
+h3{font-size: 20px;}
+
+/*Configuracion de las secciones de la pagina */
+
+header {
+    color: white;
+    background-color: black;
+    }
+
+footer {
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+
+
+#titulo_de_pagina{
+    text-align: center;
+}
+
+button{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+form{
+    line-height: 2;
+}
