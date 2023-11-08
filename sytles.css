@@ -19,6 +19,20 @@ header {
 
 footer {
     color:white;
-    align-self: center;
     background-color: black;
+    text-align: center;
+}
+
+
+#titulo_de_pagina{
+    text-align: center;
+}
+
+button{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+form{
+    line-height: 2;
 }
